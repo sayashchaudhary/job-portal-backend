@@ -7,6 +7,6 @@
 <h2>How to run the application</h2>
 <h3>1. Run npm i or npm install</h3>
 <h3>2. Run npm start</h3>
-<h3>3. Your server will be live at http://localhost:3000</h3>
+<h3>3. Your server will be live at http://localhost:5000</h3>
 
 
