@@ -1,10 +1,7 @@
-<h1>NodeJs - TypeScript Template</h1>
+<h1>Job Portal Backend</h1>
 
 <h3>
-    This is the boilerplate of a node application.
-</h3>
-<h3>
-    It provides the resource to use Node with Sequelize.
+    This is the backend for online job portal.
 </h3>
 
 <h2>How to run the application</h2>
